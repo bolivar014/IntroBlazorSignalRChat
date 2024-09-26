@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IntroBlazorSignalRChat.Shared/1.0.0": {
+        "runtime": {
+          "IntroBlazorSignalRChat.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroBlazorSignalRChat.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

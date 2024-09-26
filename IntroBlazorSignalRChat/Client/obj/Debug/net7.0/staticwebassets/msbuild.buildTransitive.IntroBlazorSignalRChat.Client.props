@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IntroBlazorSignalRChat.Client.props" />
+</Project>
